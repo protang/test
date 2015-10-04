@@ -3,3 +3,4 @@ Git is free software distributed under the GPL.
 test remote
 222222
 Creating a new branch is quick and simple.
+test commit -a
